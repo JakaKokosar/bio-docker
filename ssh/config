@@ -1,0 +1,3 @@
+host orange.biolab.si
+     identityfile /root/.ssh/rsa_serverfiles
+
